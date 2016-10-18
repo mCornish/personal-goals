@@ -10,12 +10,15 @@ It's easier to take your next step when you have a destination in mind. I share 
 ### This Week's Focus: Position Myself to Get Hired
 ### Thing's I'll Do This Week:
 - [ ] Set up a local Wordpress shop
-- [ ] Publish devStory Appendix A
-- [ ] Improve devStory reading epxerience
+- [x] [Publish devStory Appendix A](http://www.devstory.mikecornish.net/posts/appendix-a/)
+- [x] [Improve devStory reading epxerience](http://www.devstory.mikecornish.net/)
 
 ### Things I'll Do in the Future:
 - [ ] Publish the first entry in devStory Glossary series
+- [ ] Deploy a Wordpress shop through Digital Ocean
+- [ ] Get paid to build a Wordpress site
 
 ### Backlog: Side Projects & Other Ideas
 - [Flix Framework](https://github.com/mCornish/flix)
 - [Critter Decoupling](https://github.com/mCornish/critter)
+- [reacTrack](https://github.com/mCornish/reactrack)
