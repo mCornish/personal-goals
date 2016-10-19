@@ -18,7 +18,8 @@ It's easier to take your next step when you have a destination in mind. I share 
 - [ ] Publish the first entry in devStory Glossary series
 - [ ] Deploy a Wordpress shop through Digital Ocean
 - [ ] Get paid to build a Wordpress site
-- [ ] Do sample local business Wordpress redesign
+- [ ] Complete a project through Upwork
+- [ ] Build a sample local business Wordpress site
 - [ ] Go running at least 3 times in a week
 
 ### Backlog: Side Projects & Other Ideas
