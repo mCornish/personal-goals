@@ -3,6 +3,7 @@ It's easier to take your next step when you have a destination in mind. I share 
 
 # Overarching Goals for 2016
 1. Get a Front-End Job
+2. Contribute to Open Source
 2. Solidify [devStory](http://www.devstory.mikecornish.net/) Format
 3. Rewrite [The Dawn of Man](http://www.novel.mikecornish.net/)
 
