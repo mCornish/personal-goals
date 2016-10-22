@@ -10,7 +10,7 @@ It's easier to take your next step when you have a destination in mind. I share 
 # Week of October 16, 2016
 ### This Week's Focus: Position Myself to Get Hired
 ### Thing's I'll Do This Week:
-- [ ] Set up a local Wordpress shop
+- [x] Set up a local Wordpress shop
 - [x] [Publish devStory Appendix A](http://www.devstory.mikecornish.net/posts/appendix-a/)
 - [x] [Improve devStory reading epxerience](http://www.devstory.mikecornish.net/)
 
