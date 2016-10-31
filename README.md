@@ -7,29 +7,26 @@ It's easier to take your next step when you have a destination in mind. I share 
 2. Solidify [devStory](http://www.devstory.mikecornish.net/) Format
 3. Rewrite [The Dawn of Man](http://www.novel.mikecornish.net/)
 
-# Week of October 23, 2016
-### This Week's Focus: Front-End Confidence
+# Week of October 30, 2016
+### This Week's Focus: On-Boarding
 ### Thing's I'll Do This Week:
-- [ ] Nail interview for JS job
-- [ ] Rewrite [Random Quote Generator](http://codepen.io/mCornish/pen/jWJJzE)
-- [ ] Redesign a local business website in Wordpress
+- [ ] Get on board at PlayPosit
+- [ ] Travel to sister's wedding with minimal confusion
 - [ ] Publish devStory Chapter 6
-- [ ] Publish devStory Glossary: Closure
+- [ ] Draft devStory Glossary: Closure
+- [ ] Finish writing tests for [Windoe](https://github.com/mCornish/windoe)
 
 ### This Week's Reading List:
-- [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
-- [High Performance Browser Networking](http://chimera.labs.oreilly.com/books/1230000000545/index.html)
-- [The Ultimate Guide to Web Hosting](http://www.whoishostingthis.com/resources/web-hosting/)
-- [Google Search Engine Optimization Starter Guide](http://static.googleusercontent.com/media/www.google.com/en//webmasters/docs/search-engine-optimization-starter-guide.pdf)
-- [Eloquent JavaScript](http://eloquentjavascript.net/)
-- [Functional JavaScript](https://www.amazon.com/gp/product/1449360726/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1449360726&linkCode=as2&tag=fronenddevejo-20&linkId=BDQC3FTEB3YXTYCK)
-- [You Don't Know JS: Scope & Closure](https://github.com/getify/You-Dont-Know-JS/tree/master/scope%20%26%20closures)
+- [ ] [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+- [ ] [Functional JavaScript](https://www.amazon.com/gp/product/1449360726/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1449360726&linkCode=as2&tag=fronenddevejo-20&linkId=BDQC3FTEB3YXTYCK)
+- [ ] [Eloquent JavaScript](http://eloquentjavascript.net/)
+- [ ] [You Don't Know JS: Scope & Closure](https://github.com/getify/You-Dont-Know-JS/tree/master/scope%20%26%20closures)
 
 ### Things I'll Do in the Future:
+- [ ] Publish [Windoe](https://github.com/mCornish/windoe)
 - [ ] Deploy a Wordpress shop through Digital Ocean
 - [ ] Get paid to build a Wordpress site
 - [ ] Complete a project through Upwork
-- [ ] Build a sample local business Wordpress site
 - [ ] Go running at least 3 times in a week
 
 ### Backlog: Side Projects & Other Ideas
